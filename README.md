@@ -13,7 +13,7 @@ Welcome to Prawser Browser! Our compact, 100MB browser prioritizes security and 
 Download from our website, follow on-screen instructions.
 
 **Compatibility:**
-Works on Windows, macOS, and Linux.
+Works on Windows.
 
 **Support:**
 Contact our support team for assistance.
